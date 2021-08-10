@@ -1,5 +1,5 @@
 package com.Projeto.Demon;
-public class Humanoide {
+public abstract class Humanoide {
 	private String nome;
 	private int energia;
 	private int experiencia;

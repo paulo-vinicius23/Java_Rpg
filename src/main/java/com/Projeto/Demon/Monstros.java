@@ -1,5 +1,5 @@
 package com.Projeto.Demon;
-public class Monstros {
+public abstract class Monstros {
 	private int energia;
 	private String classe;
 	
